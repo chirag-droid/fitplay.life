@@ -1,5 +1,3 @@
-# Frontend Development Documentation
-
 ### Main Routes (`app/(main)/`)
 
 - `benefits/`: Benefits page
@@ -14,6 +12,8 @@
 - `admin/`: Admin Overview
 - `admin/products`: Admin Products Management
 - `admin/settings`: Admin Settings
+- `profile` wallet: Wallet history and transactions
+- `profile` history: Order history
 
 1. Employee Login Form
 
@@ -93,23 +93,27 @@
 
 ![Screenshot_4-10-2025_181324_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/919ffa48-75fe-4b6f-a9a7-747a1ed0db1f)
 
-19. Order Confirmation Page
-
-![Screenshot_4-10-2025_18157_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/428f6af1-2294-4dcf-998f-d2fd936654a2)
-
-20. Profile Page
+19. Profile Page
 
 <img width="1149" height="595" alt="image" src="https://github.com/user-attachments/assets/a4005d13-ae86-4253-aebb-a50ff869f7ae" />
 
-21. Footer
+20. Footer
 
 ![Screenshot_4-10-2025_181615_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/c8fb431e-72ee-4722-ae70-94b4fa8eef04)
 
-22. Order History
+21. Wallet History
 
 ![Screenshot_4-10-2025_181655_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/c2876336-3a23-4203-8c68-e68e576300d0)
 
-23. Reduced whitespaces
+22. Reduced whitespaces
+
+23. Order Confirmation Page
+
+![Screenshot_4-10-2025_18157_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/428f6af1-2294-4dcf-998f-d2fd936654a2)
+
+24. Order history
+
+![Screenshot_4-10-2025_18288_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/cd754d34-71be-4784-a8cf-3e537e340764)
 
 ## Tasks
 
