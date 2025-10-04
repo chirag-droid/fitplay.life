@@ -78,13 +78,46 @@
 
 ![Screenshot_16-9-2025_155613_localhost](https://github.com/user-attachments/assets/072fa7da-4496-4620-89a2-0758c8ea28aa)
 
+17. Toast / User Notification
+
+![Screenshot_4-10-2025_18938_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/cf127ebd-5143-4e58-9ea7-fad686862faa)
+
+- Fixed color issues
+
+18. Forms Fixed with validation
+
+- Pincode 6 digit number
+- mobile 10 digit number
+
+- fixed ui for form
+
+![Screenshot_4-10-2025_181324_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/919ffa48-75fe-4b6f-a9a7-747a1ed0db1f)
+
+19. Order Confirmation Page
+
+![Screenshot_4-10-2025_18157_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/428f6af1-2294-4dcf-998f-d2fd936654a2)
+
+20. Profile Page
+
+<img width="1149" height="595" alt="image" src="https://github.com/user-attachments/assets/a4005d13-ae86-4253-aebb-a50ff869f7ae" />
+
+21. Footer
+
+![Screenshot_4-10-2025_181615_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/c8fb431e-72ee-4722-ae70-94b4fa8eef04)
+
+22. Order History
+
+![Screenshot_4-10-2025_181655_fitplay-life-git-develop-chirag-singlas-projects-d568d322 vercel app](https://github.com/user-attachments/assets/c2876336-3a23-4203-8c68-e68e576300d0)
+
+23. Reduced whitespaces
+
 ## Tasks
 
 - [x] Create Admin and HR panel UI. Setup sidebar and navigation
-- [ ] Verified vs unverified users
+- [x] Verified vs unverified users
 - [x] Products API -> fetch products from server
 - [x] Cart functionality is done
-- [ ] Placing orders will be after backend is done
+- [x] Placing orders will be after backend is done
 - [x] Products filtering done
 - [x] Implement role-based UI rendering (Employee, HR, Admin)
 - [x] Create analytics dashboard showing most redeemed products, active companies, monthly redemption volume, credits vs. INR redemptions, and global tracking.
